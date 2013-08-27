@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>erply</name>
+            <displayName><![CDATA[Order Management &amp; Inventory Management]]></displayName>
+            <version><![CDATA[1.5.1]]></version>
+            <description><![CDATA[Order &amp; inventory management backend for PrestaShop]]></description>
+            <author><![CDATA[Inventory.com]]></author>
+            <tab><![CDATA[migration_tools]]></tab>
+	<confirmUninstall>Are you sure you want to delete this module</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
